@@ -1,0 +1,84 @@
+.parent{
+    position: relative;
+}
+
+.form{
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    left: 35%;
+    margin-top: 50px;
+    background-color: rgb(111, 126, 123);
+    opacity: 0.85;
+    border-radius: 5px;
+}
+
+.h1{
+    color: rgb(67, 253, 238);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.lbl{
+    font-size:large;
+    color: rgb(53, 240, 215);
+    font-style: oblique;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.tf{
+    position: absolute;
+    width: 200px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(20, 73, 109, 0.658);
+    border-radius: 5px;
+    left: 45%;
+    margin-top: 10px;
+    border-color: rgb(86, 235, 235);
+
+}
+
+.abc{
+    position: absolute;
+    width: 200px;
+    background-color: rgba(20, 73, 109, 0.658);
+    left: 45%;
+    border-color: rgb(86, 235, 235);
+    
+}
+
+.dos{
+    color: aqua;
+}
+
+.subBtn{
+    height: 30px;
+    width: 100%;
+    margin-top: 20%;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(20, 73, 109, 0.658);
+    border-color: rgb(86, 235, 235);
+}
+
+.subUp{
+    height: 30px;
+    width: 100%;
+    margin-top: 7px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(20, 73, 109, 0.658);
+    border-color: rgb(86, 235, 235);
+}
+
+.subCan{
+    height: 30px;
+    width: 100%;
+    margin-top: 7px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(20, 73, 109, 0.658);
+    border-color: rgb(86, 235, 235);
+}

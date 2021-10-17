@@ -1,0 +1,21 @@
+body {
+  background-image: url('../src/images/hos1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+}
+
+.nav{
+  width: 1242px;
+  height: 38px;
+  font-style: italic;
+  background-color: rgb(161, 179, 182);
+}
+
+.nav-active{
+  color: rgb(255, 255, 255);
+}
+
+
+

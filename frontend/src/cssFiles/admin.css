@@ -1,0 +1,68 @@
+ .containerAdmin {
+    height: 450px;
+    width: 230px;
+    bottom: 15%;
+    right: 15%;
+    background-color: rgb(33, 110, 110);
+
+  }
+
+  .adForm{
+    margin-left: 40%;
+  }
+
+  .head{
+     color: rgb(195, 206, 212);
+     margin-top: 90px;
+ }
+  
+  .imagecontainer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+  
+   }
+  
+   .user1 {
+    text-align: center;
+    border: 1px solid rgb(20, 9, 68); 
+    width: 100%; 
+    height: 25px; 
+    border-radius: 5px;
+  }
+  
+    .pass1 {
+    text-align: center;
+    border: 1px solid rgb(20, 9, 68);
+    width: 100%; 
+    height: 25px; 
+    margin-top: 2px; 
+    border-radius: 5px
+   }
+  
+   .second .lbtn1 {
+    width: 100%;
+    height: 30px;
+    cursor: pointer;
+    color:rgb(3, 22, 65);
+    margin-top: 40px;
+    border-radius: 5px; 
+    border: 1px solid rgb(20, 9, 68);
+    
+  
+   }
+  
+   .second .btn2 {
+    width: 100%;
+    height: 30px;
+    cursor: pointer;
+    color:rgb(3, 22, 65);
+    margin-top: 2px;
+    border-radius: 5px; 
+    border: 1px solid rgb(20, 9, 68);
+  
+   }
+  
+  
+   
